@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "ayah",
+      "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "translation": "Indeed, with hardship comes ease. (Quran 94:6)"
+    },
+    {
+      "type": "hadith",
+      "arabic": "خَيْرُكُم مَّنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "translation": "The best among you are those who learn the Quran and teach it. (Bukhari)"
+    },
+    {
+      "type": "ayah",
+      "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+      "translation": "And He is with you wherever you are. (Quran 57:4)"
+    }
+  ]
+}
