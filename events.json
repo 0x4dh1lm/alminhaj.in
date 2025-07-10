@@ -1,0 +1,9 @@
+{
+  "events": [
+    {"name": "Ramadan", "date": "2026-02-18"},
+    {"name": "Eid al-Fitr", "date": "2026-03-20"},
+    {"name": "Eid al-Adha", "date": "2026-05-28"},
+    {"name": "Ashura", "date": "2026-07-16"},
+    {"name": "Kerala Special Maulid", "date": "2026-09-10"}
+  ]
+}
