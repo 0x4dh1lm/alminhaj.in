@@ -1,6 +1,12 @@
 {
   "gregorian_start": "2025-06-28",
   "hijri_start_day": 1,
-  "hijri_month_en": "Muharram",
-  "hijri_year": 1447
+  "hijri_month": 0,
+  "hijri_year": 1447,
+  "manual_reset": {
+    "start": "2025-07-11",
+    "day": 14,
+    "month": 0,
+    "year": 1447
+  }
 }
